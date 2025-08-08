@@ -11,7 +11,7 @@
 ### 📚 Current & Past Projects:
 - 🌊 **[Plume erosion on Europa](https://github.com/marinacsado/plume_deposit)**:  Modeled and simulated deposit erosion under different physical conditions.  
 - 🌌 **The Halo Model for Cosmology**: Developed and validated code for the `Pyhalomod` Python library.  
-- 🌟 **RW Aur star and jet variability** — Senior thesis on stellar jets in Classical T Tauri stars.  
+- 🌟 **RW Aur star and jet variability**: Senior thesis on stellar jets in Classical T Tauri stars.  
  
 
 ---
