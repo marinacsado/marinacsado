@@ -31,7 +31,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)  
 Other tools: Sagemath, Pyhalomod, Office 365  
 
-**Languages:** 🇪🇸 Spanish (fluent), 🇬🇧 English (fluent), 🇫🇷 French (learning)  
+**Languages:** 🇪🇸 Spanish (fluent) and 🇬🇧 English (fluent)
 
 ---
 ### 📬 Contact Me:
